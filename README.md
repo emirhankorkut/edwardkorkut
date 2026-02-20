@@ -1,9 +1,9 @@
 <!---
-emirhankorkut/emirhankorkut is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+edwardkorkut/edwardkorkut is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 # Hi, I'm Edward 👋
-## Agile Project Manager | AI & Cybersecurity Professional | IT Strategist
+## Project Manager | AI & Cybersecurity Professional | IT Strategist
 
 Welcome to my GitHub! I help teams deliver secure, data‑driven solutions by blending agile project management with AI and cybersecurity experience. My background in penetration testing informs my approach to risk management, while my passion for emerging tech drives continuous learning.
 
@@ -27,7 +27,7 @@ Feel free to reach out if you'd like to collaborate or chat about technology.
 [LinkedIn](https://www.linkedin.com/in/edwardkorkut/)
 
 <!---
-- 👋 Hi, I’m @emirhankorkut
+- 👋 Hi, I’m @edwardkorkut
 - 👀 I’m interested in Cybersecurity Professional Penetration Testing.
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
