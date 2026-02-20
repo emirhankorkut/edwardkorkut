@@ -2,7 +2,7 @@
 emirhankorkut/emirhankorkut is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h1>Hi, I'm Emirhan! <br/><a href="https://github.com/emirhankorkut">Cybersecurity Enthusiast 🔒</a>, <a href="https://www.linkedin.com/in/emirhankorkut/">💼 Penetration Tester</a></h1>
+<h1>Hi, I'm Edward! <br/><a href="https://github.com/emirhankorkut">Cybersecurity Enthusiast 🔒</a>, <a href="https://www.linkedin.com/in/emirhankorkut/">💼 Penetration Tester</a></h1>
 
 - <b>Data Structures and Algorithms Practice,</b>  <b>Nmap,</b>  <b>Pwncat,</b>  <b>Ligolo,</b>  <b>CME</b>
 
