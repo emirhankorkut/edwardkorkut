@@ -2,14 +2,29 @@
 emirhankorkut/emirhankorkut is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h1>Hi, I'm Edward! <br/><a href="https://github.com/emirhankorkut">Cybersecurity Enthusiast 🔒</a>, <a href="https://www.linkedin.com/in/emirhankorkut/">💼 Penetration Tester</a></h1>
+# Hi, I'm Edward 👋
+## Agile Project Manager | AI & Cybersecurity Professional | IT Strategist
 
-- <b>Data Structures and Algorithms Practice,</b>  <b>Nmap,</b>  <b>Pwncat,</b>  <b>Ligolo,</b>  <b>CME</b>
+Welcome to my GitHub! I help teams deliver secure, data‑driven solutions by blending agile project management with AI and cybersecurity experience. My background in penetration testing informs my approach to risk management, while my passion for emerging tech drives continuous learning.
 
-- <b>PowerShell</b>
-  
-- <b>Python</b>
- 
+### 🚀 Featured Projects
+- **AI Task Prioritizer** – Machine‑learning tool for prioritising tasks based on urgency, importance, complexity and time remaining.  
+- **Anomaly Log Analyzer** – Unsupervised detection of unusual events in log files to assist security monitoring.  
+- **Secure Vault CLI** – AES‑based command‑line utility for encrypting and decrypting sensitive files.  
+
+### 🧠 Interests & Expertise
+- Project Management (Agile, Scrum, Kanban)
+- AI/ML for productivity and risk analysis
+- Cybersecurity & ethical hacking
+- Data security & privacy
+- DevOps, automation & cloud technologies
+
+### 🛠 Languages & Tools
+Python • PowerShell • Bash • Scikit‑learn • Pandas • Jira • Azure DevOps • Docker/Kubernetes • Nmap • Wireshark • Git/GitHub
+
+### 📫 Connect with me
+Feel free to reach out if you'd like to collaborate or chat about technology.  
+[LinkedIn](https://www.linkedin.com/in/edwardkorkut/)
 
 <!---
 - 👋 Hi, I’m @emirhankorkut
